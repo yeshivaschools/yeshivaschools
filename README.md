@@ -1,2 +1,1 @@
-# yeshivaschools
-abt yeshivaschools
+# yeshiva schools
